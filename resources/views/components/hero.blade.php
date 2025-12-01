@@ -6,7 +6,7 @@
 
     {{-- Title --}}
     @if(isset($title))
-    <h1 class="font-[family-name:var(--font-display)] text-5xl lg:text-7xl tracking-wider mb-6 text-neutral-900 animate-fade-in-up">
+    <h1 class="font-[family-name:var(--font-display)] text-5xl font-bold lg:text-7xl tracking-wider mb-6 text-neutral-900 animate-fade-in-up">
         {{ $title }}
     </h1>
     @endif
