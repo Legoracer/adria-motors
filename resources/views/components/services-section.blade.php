@@ -7,7 +7,7 @@
             </h2>
             @if(isset($subtitle))
             <p class="text-base lg:text-lg text-neutral-600 max-w-3xl mx-auto">
-                {{ $subtitle }}
+                {!! $subtitle !!}
             </p>
             @endif
         </div>

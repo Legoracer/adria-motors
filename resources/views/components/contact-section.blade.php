@@ -22,11 +22,11 @@
                     </li>
                     <li>
                         <span>Subota:</span>
-                        <span class="text-neutral-900 font-medium ml-2">08:00 – 20:00</span>
+                        <span class="text-neutral-900 font-medium ml-2">08:00 – 14:00</span>
                     </li>
                     <li>
                         <span>Nedjelja:</span>
-                        <span class="text-neutral-900 font-medium ml-2">09:00 – 15:00</span>
+                        <span class="text-neutral-900 font-medium ml-2">Po dogovoru</span>
                     </li>
                 </ul>
             </div>
